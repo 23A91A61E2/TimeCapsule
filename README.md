@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Images/Timecapsule logo.jpg" width="120" />
+  <img src="Assets/Images/Timecapsule logo.jpg" width="120" />
 </p>
 
 
@@ -11,7 +11,7 @@ An academic knowledge-sharing platform developed under the **iSHIP Program @ Tec
 ## 🖥 Preview
 
 ### 🌐 Website Home Page
-<img src="assets/Images/homepage.jpeg" width="800">
+<img src="Assets/Images/homepage.jpeg" width="800">
 
 
 ## 🎥 Project Demo
@@ -72,7 +72,7 @@ TimeCapsule/
 ├── Documentation/            # Project details PDFs
 ├── Video Demo/               # Working demo videos
 │
-├── assets/
+├── Assets/
 │   ├── Forms/                # Microsoft Forms screenshots
 │   ├── Images/               # logo & images
 │   ├── PowerAutomate/        # Flow automation screenshots
